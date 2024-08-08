@@ -5,4 +5,6 @@ Pegasus is a world-leading cyber intelligence solution that enables law enforcem
 
 The full document can be accessed here: NSO-Pegasus.pdf
 
+![image](https://github.com/user-attachments/assets/6b71dae5-29d1-43d0-9216-0748c2540fc9)
+
 
